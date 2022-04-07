@@ -1,1 +1,0 @@
-# AEveryDay-ClientSide
